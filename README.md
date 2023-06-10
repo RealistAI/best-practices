@@ -5,4 +5,4 @@ This is the directory for all of Realist's best-practice documentation
 - [BigQuery](https://github.com/RealistAI/bigquery-tools)
 
 # Languages
-- [Python]()
+- [Python](https://github.com/RealistAI/python)
